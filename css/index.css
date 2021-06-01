@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    background-color: rgb(50, 156, 189);
+    letter-spacing: 2px;
+}
+
+.navbar img:hover {
+    transform: scale(1.25);
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+li a {
+    font-size: 22px;
+    color: black;
+}
+
+.inicio h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-bottom: 15px;
+}
+
+.atuacao {
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+.atuacao img:hover {
+    transform: scale(1.05);
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.atuacao h4 {
+    background-color: coral;
+    padding: 15px;
+    font-family: "Trirong", serif;
+    ;
+}
+
+.atuacao p {
+    font-family: "Trirong", serif;
+}
+
+
