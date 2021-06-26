@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    background-color: rgb(50, 156, 189);
+    letter-spacing: 2px;
+}
+
+.navbar img:hover {
+    transform: scale(1.25);
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+li a {
+    font-size: 22px;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(50, 156, 189);
+}
+
+ul {
+    margin-left: 25px;
+}
+
+.civil {
+    margin-bottom: 100px;
+}
