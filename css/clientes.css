@@ -43,7 +43,7 @@ li a {
     flex-wrap: wrap;
 }
 
-.modal_img {
+#modal_img {
     width: 65vw;
     transform: scale(0);
     transition: all linear .3s;
