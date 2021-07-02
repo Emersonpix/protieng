@@ -64,6 +64,16 @@ h6 {
     margin-bottom: 25px;
 }
 
+.telefone h3 {
+    border-style: inset;
+    border-color: rgb(50, 156, 189);
+}
+
+.loca h3 {
+    border-style: inset;
+    border-color: rgb(50, 156, 189);
+}
+
 @media only screen and (max-width: 600px) {
     .telefone {
         display: flow-root;
