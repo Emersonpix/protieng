@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    background-color: rgb(50, 156, 189);
+    letter-spacing: 2px;
+}
+
+.navbar img:hover {
+    transform: scale(1.25);
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+li a {
+    font-size: 22px;
+    color: black;
+}
+
+footer {
+    background-color: rgb(62, 115, 214);
+    padding: 100px;
+}
+
+.fab {
+    color: black;
+}
+
+.textoBranco {
+    color: white !important;
+}
+
+.titulosBrancos {
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+
+.telefone {
+    margin-top: 25px;
+    border-style: groove;
+}
+
+h6 {
+    font-size: 15px;
+}
