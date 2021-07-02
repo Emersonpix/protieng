@@ -65,11 +65,13 @@ h6 {
 }
 
 .telefone h3 {
+    text-decoration: underline;
     border-style: inset;
     border-color: rgb(50, 156, 189);
 }
 
 .loca h3 {
+    text-decoration: underline;
     border-style: inset;
     border-color: rgb(50, 156, 189);
 }
